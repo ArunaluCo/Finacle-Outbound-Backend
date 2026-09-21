@@ -1,0 +1,15 @@
+{
+  "name": "vam-mock",
+  "version": "1.0.0",
+  "description": "Mock of the Intellect VAM APIs (APIM token, single/bulk VA validation, VA ledger) for Finacle lab testing",
+  "main": "server.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
